@@ -1,0 +1,10 @@
+.class-header{
+    background: rgb(44,89,176);
+    background: linear-gradient(90deg, rgba(44,89,176,1) 0%, rgba(55,106,204,1) 
+    23%, rgba(34,85,185,1) 47%, rgba(55,106,204,1) 71%, rgba(44,89,176,1) 100%);
+}
+
+.class-menu{
+    color:#ecedf0
+    
+}
